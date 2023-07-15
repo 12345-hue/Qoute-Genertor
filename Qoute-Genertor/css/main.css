@@ -1,0 +1,35 @@
+  #main{
+   background-color: cadetblue;
+   height: 100vh;
+   margin: auto;
+   display: flex;
+   flex-direction: column;
+   flex-wrap: wrap;
+   justify-content: center;
+   align-items: center;
+   color: darkolivegreen;
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+
+  h1{
+    font-size: 50px;
+  }
+
+  #main p{
+font-size: 30px;
+  }
+
+  #new-button{
+    padding: 15px 60px;
+    background-color: dimgrey;
+    border-radius: 20px;
+    border: none;
+  }
+   
+  #qoute{
+    text-align: center;
+  }
+
+  #author{
+    text-align: center;
+  }
